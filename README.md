@@ -22,8 +22,8 @@ However, if you are mostly interested in using the application to visualize data
 1. Clone this GitHub repository.
 1. In the TAP console, navigate to **Data catalog > Submit transfer**.
 1. Choose **Local path**, then navigate to the local file and select it.
-1. Select the file to upload (sample dataset can be found here: [data/nf-data-application.csv](data/nf-data-application.csv))
-    * Or you can select **Link** and paste the link to the raw file on GitHub (which is,  [nf-data-application.csv](https://raw.githubusercontent.com/trustedanalytics/dataset-reader-sample/master/data/nf-data-application.csv)
+1. Select the file to upload (sample dataset can be found here: [data/nf-data-application.csv](data/nf-data-application.csv)).
+    * Or you can select **Link** and paste the link to the raw file on GitHub (which is,  [nf-data-application.csv](https://raw.githubusercontent.com/trustedanalytics/dataset-reader-sample/master/data/nf-data-application.csv)).
 1. Enter a title in the **Title** field.
 1. Click the **Upload** button.
 1. When the transfer finishes, your new dataset will be visible in **Data catalog > Data sets**.
@@ -33,4 +33,4 @@ However, if you are mostly interested in using the application to visualize data
 
 To learn about the data visualization capabilities of the platform, work through [Workshop: Visualizing Your Data with an App](https://community.trustedanalytics.org/docs/DOC-1044).
 
->**Note:** If you made use of the pre-built dataset (instead of building your own), you can still work through the Visualization workshop. But remember to supply the title you chose in step 5 above when you get through Visualization Workshop step 8 (Update the environment and set the dataset link).
+>**Note:** If you made use of the pre-built dataset (instead of building your own), you can still work through the Visualization Workshop. But remember to supply the title you chose in step 5 above when you get to Visualization Workshop step 8 (Update the environment and set the dataset link).
